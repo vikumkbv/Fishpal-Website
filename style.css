@@ -236,7 +236,7 @@ input:-webkit-autofill:focus {
     color: #1a264a;
     line-height: 1;
     margin-bottom: 45px;
-    padding-bottom: 35px;
+    padding-bottom: 43px;
     position: relative;
     text-transform: uppercase;
 }
@@ -257,7 +257,7 @@ input:-webkit-autofill:focus {
     position: absolute;
     right: 0;
     text-align: center;
-    top: 45px;
+    top: 60px;
     width: 40px;
 }
 
@@ -1142,7 +1142,7 @@ ul#nav li a {
 
 ul#nav li a:hover,
 ul#nav li.active a {
-    text-decoration: line-through;
+    text-decoration: underline;
 }
 
 .is-sticky ul#nav li a {
