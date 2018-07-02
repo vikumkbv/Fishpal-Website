@@ -1,7 +1,7 @@
 <?php
 // Configure your Subject Prefix and Recipient here
-$subjectPrefix = '[Contact Form Website]';
-$emailTo       = '<mehedidb@gmail.com>';
+$subjectPrefix = '[Contact Form FishPal Web]';
+$emailTo       = '<vikumkbv@esportlk.com>';
 $errors = array(); // array to hold validation errors
 $data   = array(); // array to pass back data
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
